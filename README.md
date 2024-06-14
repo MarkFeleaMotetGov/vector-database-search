@@ -2,9 +2,9 @@
 
 1. Clone the repository:
    
-   `git clone https://github.com/MarkFeleaMotetGov/epic-ai-mark-testing.git`
+   `git clone https://github.com/MarkFeleaMotetGov/vector-database-search.git`
 
-   `cd https://github.com/MarkFeleaMotetGov/epic-ai-mark-testing`
+   `cd vector-database-search`
    
 
 2. Set up a virtual environment:
@@ -30,6 +30,4 @@
 
 ### Usage
 
-To run the gradio UI, execute the following command:
-
-`python epic_ai.py`
+`python vector_database.py`
